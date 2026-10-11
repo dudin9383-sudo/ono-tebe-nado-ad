@@ -87,7 +87,7 @@
   text-align: end;
   word-spacing: 17.5px;
   text-transform: uppercase;
-  margin-right: 6%;
+  margin-right: 10%;
 }
 
 .overlay {
@@ -246,7 +246,7 @@
 .footer {
   font-size: 18px;
   font-weight: 400;
-  padding: 0px 50px 90px;
+  padding: 300px 50px 90px;
   display: flex;
   justify-content: space-between;
 }
