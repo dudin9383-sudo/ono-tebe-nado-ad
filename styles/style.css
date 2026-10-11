@@ -210,7 +210,7 @@
 .about {
   display: flex;
   gap: 25px;
-  padding: 0 50px 182px 50px;
+  padding: 0px;
 }
 
 .about__column:last-child {
